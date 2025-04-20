@@ -373,6 +373,16 @@
     Plastic: 50
 
 - type: latheRecipe
+  id: MagazineP90Empty
+  result: MagazineP90Empty
+  categories:
+  - Weapons
+  completetime: 12
+  materials:
+    Steel: 30
+
+
+- type: latheRecipe
   id: MagazineM16A4Extended
   result: MagazineM16A4Extended
   categories:

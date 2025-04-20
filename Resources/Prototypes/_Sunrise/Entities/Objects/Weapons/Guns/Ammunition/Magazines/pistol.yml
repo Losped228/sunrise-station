@@ -159,6 +159,16 @@
     capacity: 63
 
 - type: entity
+  suffix: empty
+  proto: null
+  name: "магазин ПП P-90(.35 любые)"
+  parent: MagazineP90
+  id: MagazineP90Empty
+  components:
+  - type: BallisticAmmoProvider
+    capacity: 50
+
+- type: entity
   id: MagazineGlock22
   name: Glock22 magazine
   parent: BaseItem
