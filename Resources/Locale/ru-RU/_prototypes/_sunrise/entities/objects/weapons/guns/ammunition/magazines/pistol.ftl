@@ -13,6 +13,7 @@ ent-MagazineMP5Extended = расширенный магазин MP5
 ent-MagazineMP7Extended = расширенный магазин MP7
     .desc = { ent-MagazineMP7.desc }
    ent-MagazineP90Extended = расширенный магазин P90  
+    .desc = { ent-MagazineP-90.desc }
 ent-MagazineP90Empty =  магазин ПП P90(любые)
     .suffix = Пустой
     .desc = { ent-MagazineP90.desc }    
